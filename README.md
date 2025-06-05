@@ -26,7 +26,7 @@ Esse projeto foi feito para praticar programação com Python e aprender a traba
 3. Coloque o seu token em:
    ``bot.run("TOKEN_AQUI")``
 4. Rode o bot:
-  `` python bot.py``
+  ``python bot.py``
 ------------------------------------------------------------------------------------------------------
 
 📚 Tecnologias usadas:
