@@ -22,11 +22,11 @@ Esse projeto foi feito para praticar programação com Python e aprender a traba
 1. Clone este repositório:
    ``git clone https://github.com/Hiroshiihh/Bot-Discord-In-Python.git``
 2. Instale a biblioteca necessária:
-   pip install discord.py
+   ``pip install discord.py``
 3. Coloque o seu token em:
-   bot.run("TOKEN_AQUI")
+   ``bot.run("TOKEN_AQUI")``
 4. Rode o bot:
-   python bot.py
+  `` python bot.py``
 ------------------------------------------------------------------------------------------------------
 
 📚 Tecnologias usadas:
