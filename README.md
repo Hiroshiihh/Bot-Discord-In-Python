@@ -10,12 +10,12 @@ Esse projeto foi feito para praticar programação com Python e aprender a traba
 ## ⚙️ Comandos disponíveis:
 
 ------------------------------------------------------------------------------------------------------
-
-.addcargo <@membro> <nome_do_cargo> – Adiciona um cargo a um membro.
-.removercargo <@membro> <nome_do_cargo> – Remove um cargo de um membro.
-.ban <@membro> [motivo] – Bane um membro do servidor.
-.unban <id_do_usuario> – Desbane um usuário pelo ID.
-.kick <@membro> [motivo] – Expulsa um membro do servidor.
+🔧 Prefixo: .
+- .addcargo <@membro> <nome_do_cargo> – Adiciona um cargo a um membro.
+- .removercargo <@membro> <nome_do_cargo> – Remove um cargo de um membro.
+- .ban <@membro> [motivo] – Bane um membro do servidor.
+- .unban <id_do_usuario> – Desbane um usuário pelo ID.
+- .kick <@membro> [motivo] – Expulsa um membro do servidor.
 
 ## 🚀 Como rodar o projeto?
 
